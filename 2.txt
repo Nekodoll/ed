@@ -1,0 +1,1 @@
+../qemu/configure --target-list=x86_64-softmmu,x86_64-linux-user --prefix=/usr
