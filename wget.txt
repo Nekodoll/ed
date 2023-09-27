@@ -1,0 +1,1 @@
+wget https://github.com/zhaodice/qemu-anti-detection/releases/download/qemu7.0.0/qemu7.0.0.patch
